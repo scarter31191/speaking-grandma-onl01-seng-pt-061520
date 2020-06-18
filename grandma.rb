@@ -6,6 +6,7 @@ if speak_to_grandma == "i love you grandma!"
   elsif speak_to_grandma == "I LOVE YOU GRANDMA"
     print "NO, NOT SINCE 1938!"
     
-  else speak_to_grandma == 
+  else speak_to_grandma == "I LOVE YOU GRANDMA!"
+    print 
     
 end
