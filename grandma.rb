@@ -4,7 +4,4 @@ def speak_to_grandma(phrase)
   
 if speak_to_grandma == "HI!"
   print "NO, NOT SINCE 1938!"
-  
-  
-  
 end
