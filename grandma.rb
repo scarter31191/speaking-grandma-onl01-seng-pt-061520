@@ -1,5 +1,6 @@
 if "i love you grandma"
-  print 
+  print "HUH?! SPEAK UP, SONNY!"
+end  
 
 
   
