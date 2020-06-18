@@ -3,7 +3,9 @@ def speak_to_grandma(phrase = "I LOVE YOU GRANDMA!")
   return "HUH?! SPEAK UP, SONNY!"
   
   if phrase == "I LOVE YOU GRANDMA"
-    print 
+    print "NO, NOT SINCE 1938!"
+    
+  else phrase == 
 end
 
 
