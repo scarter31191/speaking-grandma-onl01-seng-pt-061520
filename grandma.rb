@@ -1,6 +1,6 @@
+speak_to_grandma = "I LOVE YOU GRANDMA!"
 
-
-def speak_to_grandma(phrase = "I LOVE YOU GRANDMA!")
+if speak_to_grandma == 
   print "i love you grandma!"
   return "HUH?! SPEAK UP, SONNY!"
   
