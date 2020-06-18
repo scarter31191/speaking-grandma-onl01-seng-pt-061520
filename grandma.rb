@@ -1,3 +1,4 @@
-def speak_to_grandma("i love you grandma!")
-  print "HUH?! SPEAK UP, SONNY!"
+def speak_to_grandma(phrase = "i love you grandma")
+  print phrase
+  return "HUH?! SPEAK UP, SONNY!"
 end
