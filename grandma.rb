@@ -7,6 +7,5 @@ if speak_to_grandma == "i love you grandma!"
     print "NO, NOT SINCE 1938!"
     
   else speak_to_grandma == "I LOVE YOU GRANDMA!"
-    print 
-    
+    print "I LOVE YOU TOO PUMPKIN!"
 end
