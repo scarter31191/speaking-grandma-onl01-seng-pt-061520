@@ -1,3 +1,19 @@
+def speak_to_grandma(phrase = "I LOVE YOU GRANDMA!")
+  print "i love you grandma"
+  return 
+end
+
+
+
+
+
+
+
+
+
+
+
+
 #speak_to_grandma = "I LOVE YOU GRANDMA!"
 
 #if speak_to_grandma == "i love you grandma!"
@@ -8,4 +24,4 @@
     
  # else speak_to_grandma == "I LOVE YOU GRANDMA!"
   #  print "I LOVE YOU TOO PUMPKIN!"
-end
+#end
