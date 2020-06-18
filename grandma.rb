@@ -6,7 +6,7 @@ def speak_to_grandma(phrase = "I LOVE YOU GRANDMA!")
     print "NO, NOT SINCE 1938!"
     
   else phrase == "I LOVE YOU GRANDMA!"
-    print 
+    print "I LOVE YOU TOO PUMPKIN!"
 end
 
 
